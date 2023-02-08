@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(171, 225, 247);
+    font-family: 'Cormorant Garamond', serif;
+
+}
+.title {
+    font-size: 40pt;
+    text-align: center;
+    font-style: italic;
+    background-color: antiquewhite;
+}
+.credit {
+    text-align: center;
+    font-size: 20pt;
+    font-style: italic;
+    background-color: antiquewhite;
+   
+}
+.pins {
+    position:relative;
+ 
+ 
+}
+.pin-container {
+    width: 300px;
+    position: relative;
+    display: inline-block;
+   padding: 25px;
+
+}
+.pin-name {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    background-color: antiquewhite;
+}
+.pin-image {
+    width: 100%;
+}
+
+.pin-information {
+    font-style: italic;
+   text-align: center;
+}
